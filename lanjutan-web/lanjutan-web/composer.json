@@ -1,0 +1,15 @@
+{
+    "name": "administrator/lanjutan-web",
+    "autoload": {
+        "psr-4": {
+            "Administrator\\LanjutanWeb\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "renaldylh",
+            "email": "57570956+renaldylh@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
